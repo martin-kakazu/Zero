@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Ground Zero
 ---
+Ground Zero o Zona Cero es un lugar en donde ha habido un gran impacto, como los [[bombardeos atómicos de Hiroshima y Nagasaki]].
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Después de tanto buscar, experimentar y aprender, decidí volver a empezar desde cero.
